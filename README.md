@@ -11,7 +11,10 @@ The blocked IDS is something only I can change into make those ids protected fro
 
 ## Installation 
 Download the program folder. But downloading the release is much better
-Run the Mvusd Brute Force.exe keep the data folder in the same directory as it
+If you have already downloaded the Brute Force.zip before all you need to do is replace the .exe when updating find the new one in the program folder up above  
+
+Run the Mvusd Brute Force.exe keep the data folder in the same directory as it  
+
 To input the id/emails you want all you need to do is go into the data/email_list.txt and input them they're
 
 EX:  
