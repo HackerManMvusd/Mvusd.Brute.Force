@@ -1,6 +1,9 @@
 # MVUSD Brute Force
-A brute forcing tool to find passwords in the MVUSD school district  
 KEEP IN MIND THIS PROGRAM TAKES A LONG TIME YOU MAY NEED TO RUN IT OVER NIGHT
+
+A brute forcing tool to find passwords in the MVUSD school district  
+
+
 If your anti virus or windows defender is triggered its because it does not have a certificate and im not paying for that shit so deal with it and run anyway
 
 No need to download the passwords.txt or the blockedIDS.txt the passwords.txt will be updated anytime anyone finds a password it will be updated and send into they're
